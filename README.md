@@ -1,2 +1,0 @@
-# BSK
-Proyecto de capstone
